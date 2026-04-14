@@ -12,8 +12,12 @@
 
 ## 📥 Download & Installation (Windows)
 1. Go to the **[Releases](../../releases)** tab on this repository.
-2. Download the latest `TASQ_Dashboard.exe`.
-3. Double-click to run. **No installation or Python environment required.**
+2. Download the latest **`TASQ_Dashboard_v1.0.zip`**.
+3. Extract the ZIP file and run the `TASQ_Dashboard.exe`. 
+4. **No installation or Python environment required.**
+
+> [!TIP]
+> **Windows Security Note:** As this is a custom research tool, Windows SmartScreen may show an "Unrecognized App" warning. To run the application, click **'More info'** and then **'Run anyway'**.
 
 ## 📖 Quick Start
 1. **Load Topology**: Use the "Reset Network" button to generate a random graph, or upload your own `.json` topology.
