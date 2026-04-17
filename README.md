@@ -1,4 +1,4 @@
-# TASQ: Topology-Aware Stored-Key Orchestration
+# Traffic-Aware QKD Key Orchestration Dashboard 
 
 **TASQ** is a high-performance orchestration framework for next-generation Quantum Communication Infrastructures (QCI). This repository provides the standalone TASQ Admin Dashboard for network monitoring, bottleneck analysis, and algorithm benchmarking.
 
